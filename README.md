@@ -16,3 +16,7 @@ Caduceus is a single pair ethernet (803.2bg) board that uses a basic SAMD51 micr
 * Michael2MacDonald
 * IoTPanic
 
+### Join The Discord Server To Colaborate
+https://discord.gg/KGtvTYx
+### View Other Projects
+https://github.com/Internet-Of-Things-Projects-Discord/
