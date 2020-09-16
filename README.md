@@ -8,6 +8,14 @@ Caduceus is a single pair ethernet (803.2bw) board that uses a basic SAMD51 micr
 
 For the power delivery aspect of the project, the design will use TIs design guide [TIDA-010076](https://discord.gg/KGtvTYx) which 
 
+Example uses for the PCB-
+
+* Wireless gateway
+* Sensors
+* Automation
+* Edge ML
+* SPE Experimentation
+
 ## Contents
 
 * [Hardware](docs/hardware.md)

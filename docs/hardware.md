@@ -23,6 +23,8 @@ Each section of the PCBs design is broken up into subsystems, the list of subsys
 
 To make the wire to board connection, the PCB will have positions for both a standard T1 connector (Part Number `09452812800`) as well as a screw terminal block. Either one can be populated depending on the network wiring setup, ready made industrial SPE cables using the T1 connector are expensive and some users will want to just use a random twisted pair of 18 AWG wire instead.
 
+For communication between the microcontroller and the ethernet transceiver an RMII bus is used which allows for the 100Mbps bandwidth. The RMII interface also allows for DMA to be used while receiving packets from the transceiver to allow more CPU time to be used on the application.
+
 ### Power
 
 Communication and power through a single twisted pair is established through a DC 12-24VDC, while the data is transmitted through an AC signal. TI recommends a LMZM33603 due to no compensation for being connected to a long loop of wire is required. This is a large 3A part, and we should find a smaller component to use that operates similarly.
