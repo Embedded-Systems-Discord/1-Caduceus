@@ -20,7 +20,7 @@ Example uses for the PCB-
 
 * [Hardware](docs/hardware.md)
 * [Contributing](docs/contributing.md)
-* [License](LICENSE.md)
+* [License](https://github.com/Internet-Of-Things-Projects-Discord/1-Caduceus/blob/master/LICENSE)
 * [TODO](docs/todo.md)
 
 ## Contributing Members
