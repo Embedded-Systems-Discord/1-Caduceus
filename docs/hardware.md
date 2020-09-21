@@ -15,6 +15,12 @@ The Caduceus is a single open source PCB made for implementation and evaluation 
 * QSPI Flash IC
 * High speed board to board interconnect with switchable power rail
 
+## Schematic
+
+![Main Page](/docs/caduceus.svg)
+
+![SPE](/docs/spe-SPE.svg)
+
 ## Subsystems
 
 Each section of the PCBs design is broken up into subsystems, the list of subsystems includes power, Ethernet interface, processor, and peripherals. The PCB must be laid out in a way that each subsystem can be technically verified using basic equipment, with a failure of one system able to be augmented if an error is made during the design process.
