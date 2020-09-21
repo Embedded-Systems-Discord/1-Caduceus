@@ -17,9 +17,9 @@ The Caduceus is a single open source PCB made for implementation and evaluation 
 
 ## Schematic
 
-![Main Page](docs/caduceus.svg)
+![Main Page](/docs/caduceus.svg)
 
-![SPE](docs/spe-SPE.svg)
+![SPE](/docs/spe-SPE.svg)
 
 ## Subsystems
 
