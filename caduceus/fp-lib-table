@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name caduceus)(type KiCad)(uri ${KIPRJMOD}/caduceus.pretty)(options "")(descr ""))
+)
